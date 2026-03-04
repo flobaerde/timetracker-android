@@ -1,0 +1,33 @@
+# Gradle files
+.gradle/
+build/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log files
+*.log
+
+# Android Captures
+/captures
+
+# External native build folder
+.externalNativeBuild
+.cxx
+
+# macOS file system
+.DS_Store
+
+# APKs and other build outputs
+*.apk
+*.aar
+*.ap_
+*.der
+
+# Project-specific secrets
+# (Add if you use google-services.json or other secret files)
+# google-services.json
